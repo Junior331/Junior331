@@ -1,7 +1,7 @@
 <h1 align="center">Jarilson Reis 👨‍💻</h1>
 
 <p align="center">
-  Desenvolvedor Front-End | React & React Native | UI/UX | Web3 Enthusiast
+  Desenvolvedor Front-End | React & React Native & NextJs | UI/UX | Web3 Enthusiast
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ### 👋 Sobre mim
 
-Sou desenvolvedor Web e Mobile com 6 anos de experiência na área de tecnologia e 5 anos atuando com foco em aplicações **React**, **React Native** e **TypeScript**.
+Sou desenvolvedor Web e Mobile com 6 anos de experiência na área de tecnologia e 6 anos atuando com foco em aplicações **React**, **React Native**, **NextJs** e **TypeScript**.
 
 Minha missão vai além de escrever código: quero entender o propósito de cada projeto, seu impacto e como ele melhora a vida das pessoas. Sou apaixonado por criar interfaces intuitivas, modulares e acessíveis.
 
