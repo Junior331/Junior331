@@ -1,7 +1,7 @@
 <h1 align="center">Jarilson Reis 👨‍💻</h1>
 
 <p align="center">
-  Desenvolvedor Front-End | React & React Native & NextJs | UI/UX | Web3 Enthusiast
+  Desenvolvedor Front-End focado em React/NextJs, Mobile & Web3 • Mentor no Estartando Devs
 </p>
 
 <p align="center">
@@ -14,12 +14,11 @@
 ---
 
 ### 👋 Sobre mim
-
-Sou desenvolvedor Web e Mobile com 6 anos de experiência na área de tecnologia e 6 anos atuando com foco em aplicações **React**, **React Native**, **NextJs** e **TypeScript**.
+Sou desenvolvedor Web e Mobile com 6 anos de experiência, atuando com foco em **React**, **React Native**, **NextJs** e **TypeScript**.
 
 Minha missão vai além de escrever código: quero entender o propósito de cada projeto, seu impacto e como ele melhora a vida das pessoas. Sou apaixonado por criar interfaces intuitivas, modulares e acessíveis.
 
-Desde 2019, faço parte do projeto **Estartando Devs**, onde comecei como aluno e hoje atuo como mentor, ajudando novos talentos a entrarem no mercado de tecnologia.
+Desde 2019, faço parte do projeto **Estartando Devs** — iniciei como aluno e hoje atuo como mentor, ajudando novos talentos a entrarem no mercado de tecnologia.
 
 ---
 
@@ -33,7 +32,7 @@ Desde 2019, faço parte do projeto **Estartando Devs**, onde comecei como aluno 
 `Solana` • `Viem` • `Web3` • `Ethers.js` • `Wagmi` • `Rainbowkit` • `Metamask` • `Project Serum`
 
 #### **Back-End & Cloud**
-`Node.js` • `.NET Core` • `PostgreSQL` • `Firebase` • `AWS (S3, Cognito, Amplify)` • `Supabase`
+`Node.js` • `NestJs` • `Prisma` • `.NET Core` • `PostgreSQL` • `Firebase` • `AWS (S3, Cognito, Amplify)` • `Supabase`
 
 #### **Testes**
 `Jest` • `React Testing Library` • `Testes Unitários e de Integração`
