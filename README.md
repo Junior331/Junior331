@@ -1,47 +1,64 @@
+<h1 align="center">Jarilson Reis 👨‍💻</h1>
 
-
-<h1 align="center">Hi 👋, I'm Jarilson junior</h1>
-<h3 align="center">frontend developer</h3>
-
-<h3 align="left">Languages and Tools:</h3>
-  <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="firebase" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://angular.io/guide/what-is-angular" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="react" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<center>
-     <table align="left">
-      <tr>
-          <td>
-              <img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=junior331&count_private=true&hide_border=true" />
-          </td>
-          <td>
-              <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junior331&layout=compact&hide_border=true" alt="junior331" />                   </td>
-      </tr>  
-    </table>
-</center>
-
-- Things I like to do:
-- 🖥 Web Applications
-- 📱 Applications
-- :coffee: Coffee
-<br></br>
-- 💬 Ask me about **javascript, typescript, angular, react, nextJs, vue, redux, styled-components**
-
-- 📫 How to reach me **jarilson.rk@gmail.com**
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/jarilson-reis-b624a3172/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="junior331" height="30" width="40" /></a>
+<p align="center">
+  Desenvolvedor Front-End | React & React Native | UI/UX | Web3 Enthusiast
 </p>
 
-<!--
-**jarilsonjunior/jarilsonjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="mailto:jarilson.rk@gmail.com">📧 Email</a> • 
+  <a href="https://www.linkedin.com/in/jarilson-reis">🔗 LinkedIn</a> • 
+  <a href="https://jarilsonreis.vercel.app/">🔗 Portfolio</a> • 
+  <a href="https://www.estartandodevs.com.br/">🌱 Estartando Devs</a>
+</p>
+
+---
+
+### 👋 Sobre mim
+
+Sou desenvolvedor Web e Mobile com 6 anos de experiência na área de tecnologia e 5 anos atuando com foco em aplicações **React**, **React Native** e **TypeScript**.
+
+Minha missão vai além de escrever código: quero entender o propósito de cada projeto, seu impacto e como ele melhora a vida das pessoas. Sou apaixonado por criar interfaces intuitivas, modulares e acessíveis.
+
+Desde 2019, faço parte do projeto **Estartando Devs**, onde comecei como aluno e hoje atuo como mentor, ajudando novos talentos a entrarem no mercado de tecnologia.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+#### **Front-End**
+`HTML` • `CSS` • `JavaScript` • `TypeScript` • `React` • `React Native` • `NextJs` • `Angular` • `Vue`   
+`Styled-components` • `TailwindCSS` • `Shadcn/ui` • `Material-UI` • `Sass` • `Bootstrap` • `Plop`
+
+#### **Web3 & Blockchain**
+`Solana` • `Viem` • `Web3` • `Ethers.js` • `Wagmi` • `Rainbowkit` • `Metamask` • `Project Serum`
+
+#### **Back-End & Cloud**
+`Node.js` • `.NET Core` • `PostgreSQL` • `Firebase` • `AWS (S3, Cognito, Amplify)` • `Supabase`
+
+#### **Testes**
+`Jest` • `React Testing Library` • `Testes Unitários e de Integração`
+
+#### **Outros**
+`Git` • `Docker` • `Figma` • `Jira` • `Postman` • `Insomnia` • `WSL`
+
+---
+
+### 🚀 Em busca de novos desafios!
+
+Busco projetos que tenham impacto real e que me permitam crescer enquanto entrego soluções de qualidade. Se quiser bater um papo, colaborar ou apenas trocar uma ideia, me chama!
+
+<div align="start">
+  <table>
+    <tr>
+      <td valign="top">
+        <strong>📊 Minhas estatísticas</strong><br/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Junior331&layout=compact&show_icons=true&theme=dark&hide_border=true&hide_title=true&locale=pt-br&title_color=58a6ff&icon_color=58a6ff&text_color=fff&bg_color=0d1117" width="400" alt="Estatísticas GitHub Jarilson" />
+      </td>
+      <td valign="top">
+        <strong>🧠 Linguagens mais usadas</strong><br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior331&layout=compact&theme=dark&hide_border=true&hide_title=true&locale=pt-br&title_color=adbac7&text_color=fff&bg_color=0d1117&border_color=58a6ff" width="400" alt="Linguagens mais usadas" />
+      </td>
+    </tr>
+  </table>
+</div>
 
